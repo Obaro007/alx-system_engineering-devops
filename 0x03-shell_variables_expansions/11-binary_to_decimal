@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(( $base2 # Number_of_base2 ))
